@@ -52,7 +52,7 @@ Trước khi muốn thay đổi source code, điều đầu tiên mà bạn cầ
 #### Cập nhật thay đổi
 Sau khi bạn thay đổi source code: thêm mới, sửa, xoá files,… Bạn cần phải cập nhật lên Staging Area. Để cập nhật hết các files:
 
-`$ git add` 
+`$ git add . ` 
 
 Sau lệnh add, bạn cần sử dụng câu lệnh Commit để đây thông tin thay đổi lên Local Respository:
 
