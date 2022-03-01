@@ -192,7 +192,7 @@ $ git branch -m master master-branch
 
 # Đổi tên branch developer thành master
 $ git branch -m developer master
-``
+```
 Push branch master lên remote
 ```
 # Force push branch master lên remote (push đề master local lên master remote, ghi đề commit ở local lên remote)
